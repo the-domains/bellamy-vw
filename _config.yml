@@ -32,13 +32,13 @@ analytics:
   twitter: null
   google: null
   facebook: null
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/8ca013cd-11d1-42cb-b9fa-0da5ac669d46.png
+name: Bellamy VW
 author:
   name: Marcus P
   email: marcus@marcusplatt.co.uk
   url: 'http://marcusplatt.co.uk/'
-name: Bellamy VW
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/8ca013cd-11d1-42cb-b9fa-0da5ac669d46.png
 opengraph:
   image: null
   type: null
@@ -46,4 +46,4 @@ opengraph:
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/3e35effc-2d83-4c65-bd6f-3edcd4994bda.png
 typography_spectrum: 0.08010118
-layout_spectrum: 0.5042158
+layout_spectrum: 0.2908938
