@@ -1,17 +1,21 @@
 ---
-datePublished: '2016-08-09T09:56:12.082Z'
-sourcePath: _posts/2016-08-09-12-months-ago-as-a-wedding-gift-we-took-a-vw-t2-campervan.md
-author: []
-via: {}
-dateModified: '2016-08-09T09:56:11.720Z'
-title: ''
-publisher: {}
-description: T25 adventures ahead
-starred: false
 inFeed: true
 hasPage: false
 inNav: false
-_type: MediaObject
+isBasedOnUrl: null
+inLanguage: null
+keywords: []
+description: T25 adventures ahead
+datePublished: '2016-08-09T10:03:52.536Z'
+dateModified: '2016-08-09T10:03:49.588Z'
+sourcePath: _posts/2016-08-09-12-months-ago-as-a-wedding-gift-we-took-a-vw-t2-campervan.md
+author: []
+via: {}
+title: ''
+authors: []
+publisher: {}
+starred: true
+_type: Blurb
 
 ---
 T25 adventures ahead
