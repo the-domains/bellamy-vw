@@ -1,16 +1,16 @@
-typography_spectrum: 0.12475302559323609
+typography_spectrum: 0.13051336002536118
 color:
-  brandStrength: 0.7838568526785821
-  lightness: 0.7697021849453449
-  saturation: 0.8903614287264645
-  rhythmicContrast: 0.22841692250221968
+  brandStrength: 0.5489569203928113
+  lightness: 0.6037856261245906
+  saturation: 0.21470759506337345
+  rhythmicContrast: 0.32287840568460524
   brandColors:
-    - '#5A1F00'
-    - '#D1570D'
-    - '#FDE792'
-    - '#477725'
-    - '#A9CC66'
-layout_spectrum: 0.48143338854424655
+    - '#468966'
+    - '#FFF0A5'
+    - '#FFB03B'
+    - '#B64926'
+    - '#8E2800'
+layout_spectrum: 0.07832300756126642
 author:
   name: Marcus P
   email: marcus@marcusplatt.co.uk
