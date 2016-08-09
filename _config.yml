@@ -1,4 +1,3 @@
-layout_spectrum: 0.48143338854424655
 typography_spectrum: 0.2271719751879573
 color:
   brandStrength: 0.7838568526785821
@@ -11,5 +10,7 @@ color:
     - '#FDE792'
     - '#477725'
     - '#A9CC66'
+layout_spectrum: 0.48143338854424655
 name: Bellamy VW
+title: Bellamy the Campervan
 description: Adventures in our T25 Campervan
