@@ -1,14 +1,14 @@
 ---
-datePublished: '2016-08-09T09:11:33.528Z'
+datePublished: '2016-08-09T09:58:12.378Z'
 sourcePath: >-
   _posts/2016-08-09-we-decided-to-call-our-t25-bellamy-why-bellamy-from-the-fr.md
 author: []
 via: {}
-dateModified: '2016-08-09T09:11:32.926Z'
+dateModified: '2016-08-09T09:58:11.962Z'
 title: ''
 publisher: {}
 description: Bellamy - ‘Bel Ami’
-starred: false
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
