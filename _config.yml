@@ -14,7 +14,7 @@ collections:
       number: 10
 description: Adventures in our T25 Campervan
 color:
-  saturation: 0.7166948
+  saturation: 0.4426644
   brandStrength: 0.5489569203928113
   lightness: 0.6037856
   brandColors:
@@ -23,7 +23,7 @@ color:
     - '#FFB03B'
     - '#B64926'
     - '#8E2800'
-  rhythmicContrast: 0.8237774
+  rhythmicContrast: 0.2352445
 cta:
   bucket: null
   version: null
@@ -46,4 +46,4 @@ opengraph:
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/3e35effc-2d83-4c65-bd6f-3edcd4994bda.png
 typography_spectrum: 0.08010118
-layout_spectrum: 1
+layout_spectrum: 0.5042158
