@@ -1,49 +1,49 @@
-typography_spectrum: 0.08010118
-color:
-  saturation: 0.4426644
-  brandStrength: 0.5489569203928113
-  lightness: 0.6037856
-  brandColors:
-    - '#468966'
-    - '#FFF0A5'
-    - '#FFB03B'
-    - '#B64926'
-    - '#8E2800'
-  rhythmicContrast: 0.2352445
+name: Bellamy VW
+description: Adventures in our T25 Campervan
 opengraph:
   image: null
   type: null
   appId: null
-layout_spectrum: 0.2908938
-analytics:
-  twitter: null
-  google: null
-  facebook: null
 author:
   name: Marcus P
   email: marcus@marcusplatt.co.uk
   url: 'http://marcusplatt.co.uk/'
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/bdb735bd-05f8-43b9-b669-2f24978f6b89.png
-name: Bellamy VW
-cta:
-  bucket: null
-  version: null
-  domain: null
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/36169f59-9fdf-40aa-ac33-ff161a9bf97d.png
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
+layout_spectrum: 0.2908938
+color:
+  saturation: 0.4426644
+  brandStrength: 0.5489569203928113
+  rhythmicContrast: 0.2352445
+  brandColors:
+    - '#468966'
+    - '#FFF0A5'
+    - '#FFB03B'
+    - '#B64926'
+    - '#8E2800'
+  lightness: 0.6037856
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/bdb735bd-05f8-43b9-b669-2f24978f6b89.png
+cta:
+  bucket: null
+  version: null
+  domain: null
 title: 'Bellamy, our VW Campervan'
-description: Adventures in our T25 Campervan
 purpose: []
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/36169f59-9fdf-40aa-ac33-ff161a9bf97d.png
+typography_spectrum: 0.08010118
+analytics:
+  twitter: null
+  google: null
+  facebook: null
